@@ -460,7 +460,7 @@ function App() {
                       and payment gateways, has been crucial to our success. Their
                       strong grasp of the Indian fintech ecosystem has enabled them to
                       deliver innovative and compliant solutions tailored to our
-                      needs. Moreover, Infominez&apos;s commitment to agile development
+                      needs. Moreover, &apos;s commitment to agile development
                       methodologies and their ability to adapt swiftly to evolving
                       regulatory requirements have been indispensable to our business.
                       We highly value our partnership and look forward to continued
@@ -656,7 +656,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-6 gap-8">
             {/* Company Info */}
             <div className="col-span-2">
-              <img src="/public/images/infominez.svg" alt="Infominez" className="h-12 mb-4" />
+              <img src="/public/images/infominez.png" alt="Infominez" className="h-12 mb-4" />
               <p className="text-gray-400 text-sm mt-4">
                 We are an agency specialising in web design & web automation since 2013
               </p>
