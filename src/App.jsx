@@ -447,7 +447,7 @@ function App() {
               <div className="hidden right-0 left-0 top-[100px] xl:flex w-full xl:w-1/3 pl-14 translate-y-[-70px] flex-col items-center gap-4 mr-12">
                 <div>
                   <img
-                    src="/public/images/boss.svg"
+                    src="/public/images/boss.png"
                     alt="Director"
                     className="w-full h-full object-cover rounded-lg "
                   />
