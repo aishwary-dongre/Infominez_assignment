@@ -3,7 +3,7 @@ import { useState } from 'react';
 function Logo() {
   return (
     <div className="flex items-center">
-      <img src="/public/images/infominez.svg" alt="Infominez Logo" className="w-44" />
+      <img src="/public/images/infominez.png" alt="Infominez Logo" className="w-44" />
     </div>
   );
 }
